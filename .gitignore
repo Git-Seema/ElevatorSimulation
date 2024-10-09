@@ -1,0 +1,11 @@
+# Ignore build outputs
+bin/
+obj/
+
+# Ignore NuGet package directories
+packages/
+*.nuget/
+
+# Ignore build cache
+*.cache
+*.json
